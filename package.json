@@ -1,0 +1,69 @@
+{
+  "name": "sabarikwa618random",
+  "version": "1.0.0",
+  "description": "Tea OSS incorporates professional-grade mean calculations, featuring advanced functionalities to effortlessly and accurately handle total computations of randomly selected numbers.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "sabarikwa618random": "^1.0.0",
+    "hybergerrolison477oss": "^1.0.0",
+    "orenifft147stats": "^1.0.0",
+    "thautmarcelo9alysis": "^1.0.0",
+    "ramseurchryst594median": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabarikwa618/sabarikwa618random.git"
+  },
+  "homepage": "https://github.com/sabarikwa618/sabarikwa618random/blob/main/README.md",
+
+  "issues": "https://github.com/sabarikwa618/sabarikwa618random/issues",
+
+  "keywords": ["random", "number", "generator"],
+
+
+  "author": "sabarikwa618",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
